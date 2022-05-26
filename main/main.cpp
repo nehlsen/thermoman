@@ -4,7 +4,7 @@
 #include <Sensors.h>
 #include <PowerManager.h>
 
-#define SLEEP_TIME_IN_SECONDS 10
+#define SLEEP_TIME_IN_SECONDS 60 * 30 // 30 minutes
 
 static void readAndPublishSensorsAndWaitAndSleep()
 {
