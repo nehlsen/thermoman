@@ -4,3 +4,6 @@
 [submodule "components/AHT10-IDF"]
 	path = components/AHT10-IDF
 	url = git@github.com:nehlsen/AHT10-IDF.git
+[submodule "components/SoilMoistureSensorIdf"]
+	path = components/SoilMoistureSensorIdf
+	url = https://github.com/nehlsen/SoilMoistureSensorIdf.git
